@@ -1,2 +1,2 @@
-# webside-spk
-webspk
+# project-spk
+web
